@@ -3,8 +3,8 @@
 Open CSV files as a clean, navigable table inside VS Code — instead of reading
 them as a wall of comma-separated text.
 
-**Install from the VS Code Marketplace:** https://marketplace.visualstudio.com/ite
-ms?itemName=botchi-the-dev.hero-csv&ssr=false#overview
+**Install from the VS Code Marketplace:** 
+Install [here](https://marketplace.visualstudio.com/items?itemName=botchi-the-dev.hero-csv&ssr=false#overview)
 
 ## What it does
 - Renders CSV files as a sortable, scrollable table in the editor
